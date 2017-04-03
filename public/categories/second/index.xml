@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Blog Template for GitHub Pages</title>
-    <link>http://spencerlyon.com/hugo_gh_blog/categories/second/index.xml</link>
-    <description>Recent content on Hugo Blog Template for GitHub Pages</description>
+    <title>Second on Hugo Blog Template for GitHub Pages</title>
+    <link>http://rameshponnada.in/categories/second/index.xml</link>
+    <description>Recent content in Second on Hugo Blog Template for GitHub Pages</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://spencerlyon.com/hugo_gh_blog/categories/second/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rameshponnada.in/categories/second/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Second Post</title>
-      <link>http://spencerlyon.com/hugo_gh_blog/posts/middle/</link>
+      <link>http://rameshponnada.in/posts/middle/</link>
       <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://spencerlyon.com/hugo_gh_blog/posts/middle/</guid>
+      <guid>http://rameshponnada.in/posts/middle/</guid>
       <description>
 
 &lt;h2 id=&#34;sample-post-1&#34;&gt;Sample Post 1&lt;/h2&gt;
