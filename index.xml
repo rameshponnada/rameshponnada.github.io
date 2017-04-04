@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sample Blog</title>
+    <link>http://rameshponnada.in/index.xml</link>
+    <description>Recent content on Sample Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Tue, 04 Apr 2017 10:46:57 +0530</lastBuildDate>
+    <atom:link href="http://rameshponnada.in/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The world in your pocket</title>
+      <link>http://rameshponnada.in/2017/04/04/the-world-in-your-pocket</link>
+      <pubDate>Tue, 04 Apr 2017 10:46:57 +0530</pubDate>
+      
+      <guid>http://rameshponnada.in/2017/04/04/the-world-in-your-pocket</guid>
+      <description>&lt;p&gt;Google Maps has gone from location finder to daily travel companion, and India has played a part in its development, says Sanket Gupta, Program Manager, Google Maps&lt;/p&gt;
+
+&lt;p&gt;Eight years ago, when I moved to Chennai for college, a relative suggested I get myself a map of the new, unfamiliar city. An actual, physical map. In 2009, this did not seem an outlandish suggestion, as it would take me a while to figure out the many bakkams, konams, pets and pettahs that were interspersed around the city. But when the touchscreen smartphone gained ground about a year later, and mapping apps took advantage of the screen real estate they offered, that early suggestion seemed a ludicrous remnant of the past.&lt;/p&gt;
+
+&lt;p&gt;The convenience is unquestionable, but mapping is tough business, and Sanket Gupta is the first person to admit it. Gupta, who is the program manager for Google Maps, says that the journey to becoming a reliable guide has been a long one. Even as I considered buying a map of Chennai, others around me were using Google’s Mapmaker tool to add details to Google’s offering, enhancing it more rapidly than the company’s own teams could. Mapmaker laid the foundation for Maps as we know it today – though the service has now outlived its purpose, with Google announcing that it will be discontinued by the end of this month, as its core features migrate to the main Maps app.&lt;/p&gt;
+
+&lt;p&gt;As the application itself has got more features over the years, Gupta says the goal behind the team’s efforts has remained the same. “We’re always trying to make Maps more comprehensive and relevant, for which you need data. There is always a new flyover coming up, or a road that is closed, and this data helps us make an accurate reflection of the real world.”&lt;/p&gt;
+
+&lt;p&gt;Like most other Google services, some of this data comes from users, though Maps relies more heavily on voluntary contributions than the company’s other products. Mapmaker set the ball rolling, and the Maps application itself has been gaining new features, with the Local Guides reward system incentivising users to contribute data about the places they have been to.&lt;/p&gt;
+
+&lt;p&gt;Some such features that were developed for the application were inspired by challenges posed by India, says Gupta. “One issue we often face is that many cities do not have proper names for streets, so we started using landmarks for guidance, particularly for navigation. Another feature we developed keeping India in mind is Offline Maps, which was conceived here and has expanded to other countries. Obviously, India is in the top five countries that use it, but it is put to use even in the West in areas known for spotty connectivity.”&lt;/p&gt;
+
+&lt;p&gt;The progress made by Maps has been rapid. Turn-by-turn navigation reached India in 2012, rendering many third-party automobile navigation solutions redundant. Offline navigation followed, and just this year, the team has pushed out the option to make personalised lists of locations (earlier only available to Local Guides of Level 4 and above), expanded their Transit public transport assistance system to seven new Indian cities, and provided users the option of sharing their location in real time with loved ones. According to Gupta, the service is also tapping into Google’s machine learning to analyse trustworthy updates submitted to Maps by users, increasing its responsiveness to real-world changes.&lt;/p&gt;
+
+&lt;p&gt;Now that the roads are displayed with workable accuracy, Gupta says the focus is on providing people with relevant and helpful information. “We’ve been trying to coordinate with the authorities to update Maps during large-scale events. For example, during Durga Puja in Kolkata, we highlighted the locations of the main pandals on the map, and updated information on procession routes and road blockages during Ganesh Visarjan in Mumbai.” Even on a day-to-day basis, he says that tie-ups with companies like Uber, Zomato and Dineout have been created with the purpose of making Maps more actionable.&lt;/p&gt;
+
+&lt;p&gt;The future of Maps is something Gupta is hesitant to discuss at length. “We keep trying new things, and we always come back to our users for feedback, so some projects get implemented and others scrapped.” He does reiterate the statement he brought up multiple times during our conversation. “All our efforts are concentrated on making Maps more usable and accurately represent the real world.”&lt;/p&gt;
+
+&lt;p&gt;These efforts were successful for the most part, as I did not have to buy a map all those years ago. However, I came across one of Bengaluru when I moved to the city in 2016, tucked away in a corner in a disused office. The large, framed sheet still holds a nostalgic charm. Unfortunately, nostalgia doesn’t tell you how bad traffic on Kamaraj Road is.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cyber attacks getting hi-tech</title>
+      <link>http://rameshponnada.in/2017/04/04/cyber-attacks-getting-hi-tech</link>
+      <pubDate>Tue, 04 Apr 2017 08:46:57 +0530</pubDate>
+      
+      <guid>http://rameshponnada.in/2017/04/04/cyber-attacks-getting-hi-tech</guid>
+      <description>&lt;p&gt;There is now hardly any difference between run-of-the-mill attacks and State-sponsored ones, say security experts&lt;/p&gt;
+
+&lt;p&gt;One of the oldest methods of online attacks is breaking into someone’s email. The reports during last year’s US Presidential elections that hackers had stolen e-mails from John Podesta, the chairman of Hillary Clinton’s campaign, reminded everyone how vulnerable e-mails still are.&lt;/p&gt;
+
+&lt;p&gt;While targets have remained the same, what has evolved over years are techniques adopted by criminals to mask their trail and thereby make it difficult to investigate and find solutions.&lt;/p&gt;
+
+&lt;p&gt;More than personal e-mails, it’s big organisations that are the favourites of hackers, since the stolen data would be more valuable and the security breach would have a far-reaching impact.&lt;/p&gt;
+
+&lt;p&gt;“We keep seeing more of the same in terms of the type of attacks. But they (attackers) are finding newer techniques to do it,” said Julie Cullivan, Chief Information Officer and Senior Vice President of Business Operations, FireEye, during a recent visit to Bengaluru.&lt;/p&gt;
+
+&lt;p&gt;A stark difference noticed by experts is that the tactics adopted by hackers now are as sophisticated as those by State sponsors.&lt;/p&gt;
+
+&lt;p&gt;Personal calls on phone&lt;/p&gt;
+
+&lt;p&gt;A new trend noticed by researchers is for attackers to target persons specifically rather than send out mass phishing e-mails with generic subject lines like “Invoice” or “Delivery confirmation”.&lt;/p&gt;
+
+&lt;p&gt;According to the ‘M-Trends 2017’ report released recently, hackers even call up potential victims to follow up on the malicious email, and obtain crucial information, like personal email IDs of top executives, to avoid the possibility of phishing mails getting caught in controls protecting official corporate emails.&lt;/p&gt;
+
+&lt;p&gt;One such ‘privilege escalation tool’ leveraged CVE-2016-0167, a previously unknown vulnerability. The tool allowed attackers to obtain elevated privileges in environments where the initially compromised user did not have them, says the report.&lt;/p&gt;
+
+&lt;p&gt;Two traditional security measures, especially in big organisations, are: network segmentation (instead of one large network, break it up into many, so even if one is breached, the entire system won’t go down) and multi-factor authentication (instead of one password, have one or two more layers of verification like one-time password or fingerprint authentication).&lt;/p&gt;
+
+&lt;p&gt;The report says last year, attackers managed to access e-mails by circumventing even these two security measures. “With an OAuth token, an attacker has the ability to bypass multi-factor authentication to access a target user’s cloud resources such as email, calendar and shared documents,” says the report. “The volume of email stolen through the years is likely greater than all other forms of electronic data theft combined.”&lt;/p&gt;
+
+&lt;p&gt;Educating boardroom&lt;/p&gt;
+
+&lt;p&gt;The increasing incidence of big companies getting hit has led corporate boardrooms to look at cyber attacks differently. “We are seeing more effort on the part of boardrooms to get educated on cyber security. CIOs are also having to change the language they speak, so they make themselves understandable to the boardrooms on their risks and on ways to mitigate the risks,” said Julie Cullivan.&lt;/p&gt;
+
+&lt;p&gt;She said, now companies are being advised to look at cyber risk not just from the technology point of view, but also as an enterprise risk. “It’s important to understand what the financial implications would be, should something happen, or what the legal liabilities would be. Companies also need to ensure that they have the right partners and communication plans, and the right tools to mitigate the risks,” she said.&lt;/p&gt;
+
+&lt;p&gt;The sophistication adopted by hackers is of such high levels that the thin line of difference between the attacks mounted by run-of-the-mill hackers and State-sponsored attacks have today completely vanished.&lt;/p&gt;
+
+&lt;p&gt;With strong command and control structures, they are adopting improved counter-forensic techniques, say experts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Engineering the markets where users are</title>
+      <link>http://rameshponnada.in/2017/04/04/engineering-the-markets-where-users-are</link>
+      <pubDate>Tue, 04 Apr 2017 08:46:57 +0530</pubDate>
+      
+      <guid>http://rameshponnada.in/2017/04/04/engineering-the-markets-where-users-are</guid>
+      <description>&lt;p&gt;The spectrum of design work in the context of web and mobile is very wide. Front-end engineering has emerged as a challenging job role in this backdrop, as engineers must combine combine design and User Interface (UI) engineering skills. These skills could be inherent, or they must be acquired on the ‘job’. Design schools are far behind in producing front-end engineers, because the pedagogy paradigm in these institutions does not consider, let alone include, code as a way to produce repeatable elements of interface design. The more fundamental problem with design education in India is that the web and mobile are still viewed from the lens of publishing content, not from the point of view of interactivity and products. This paradigm works against the complexity of interface design, leaving experiences at workplaces and peers as the primary sources to develop skills and mastery of designing UI.&lt;/p&gt;
+
+&lt;p&gt;“Good UI design is extremely important because markets are where the users are,” Mario Stallone, Associate Architect at Myntra, tells me. Users are hanging out on apps where the interfaces are intuitive and performant. A good desktop or mobile product – such as your favourite food, e-commerce or social networking app – is a series of minute instructions and flows that work seamlessly without the user noticing the frameworks, lines of code and the architecture powering it. And it has the aesthetics and the visual appeal that has the user’s attention, whether the user noticed it or not.&lt;/p&gt;
+
+&lt;p&gt;The obsession with detail is critical because “front-end engineers must be aware of the various platforms and screens their code is going live on. They must ensure that they provide the best-looking front-end apps for these devices and screens,” Stallone points out. This is not the end of their work. Front-end engineers and architects must also plan and deploy code which will scale for future use cases and business scenarios. So, if your business or product has planned for acquiring its next million users in the next six months, the code should scale for this use case, so that the app continues to perform and load as reliably as it did when the number of users was fewer.&lt;/p&gt;
+
+&lt;p&gt;The difference between interaction designers and front-end engineers is that the latter understand the strengths, limitations and nuances of platforms on which the interface is designed and made visible. In this respect, front-end engineering encompasses the code and frameworks which make it easy to produce repeatable aspects of the interface on different platforms, or fundamentally, a new way of building the interface, such as Facebook’s React framework did some years ago.&lt;/p&gt;
+
+&lt;p&gt;In the next column, we’ll look at the interactions and coordination between UX designers, UI engineers and product managers to understand how each persona’s perspective of business requirements, design and interface informs the work that engineers and designers do.&lt;/p&gt;
+
+&lt;p&gt;“The outcome of what you get to build is immediately visible to customers,” Stallone concludes. Front-end engineers are, therefore, at the frontline of configuring products for different users, and eventually markets.&lt;/p&gt;
+
+&lt;p&gt;Zainab Bawa is the chief editor at HasGeek Learning. She curates India’s best technology conferences on data science, payments, web development and other emerging fields in IT&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Samsung launches flagship Galaxy S8, S8 Plus</title>
+      <link>http://rameshponnada.in/2017/04/04/samsung-launches-flagship-galaxy-s8-s8-plus</link>
+      <pubDate>Tue, 04 Apr 2017 08:46:57 +0530</pubDate>
+      
+      <guid>http://rameshponnada.in/2017/04/04/samsung-launches-flagship-galaxy-s8-s8-plus</guid>
+      <description>&lt;p&gt;Samsung also revealed Bixby, a smart voice assistant to rival Apple’s Siri and Google’s Assistant&lt;/p&gt;
+
+&lt;p&gt;After much speculation over its built and specifications over past few months, South Korean giant Samsung on Wednesday launched its flagship device, Galaxy S8, that has a voice assistant.&lt;/p&gt;
+
+&lt;p&gt;The device comes in two variants with different screen sizes — the 5.8-inch Galaxy S8 and 6.2-inch Galaxy S8 Plus — and will be available from April 21. Registrations begin from March 30. The device might be priced from $720 (approximately ₹47,000).&lt;/p&gt;
+
+&lt;p&gt;Samsung will release these devices in India in the coming months.&lt;/p&gt;
+
+&lt;p&gt;Samsung also revealed Bixby, a smart voice assistant to rival Apple’s Siri and Google’s Assistant. With a perfect amalgam of voice, vision and touch, Bixby can search restaurants, take screenshots and even book a cab for you.&lt;/p&gt;
+
+&lt;p&gt;The technology giant has used the best hardware and provided the best features available to date in the device.&lt;/p&gt;
+
+&lt;p&gt;The device has a bezel-less curved edge “infinity display” covered with pristine glass and a 12MP rear camera with multi-frame processing and optical image stabilisation. It has an 8MP auto-focus front shooter.&lt;/p&gt;
+
+&lt;p&gt;The device is IP68 rated, meaning it is water and dust resistant. The company has also upped the security feature with iris scanner, face recognition and fingerprint scanner — moved to the back of the device — to unlock the device.&lt;/p&gt;
+
+&lt;p&gt;The home button has been shifted beneath the “infinity display.”&lt;/p&gt;
+
+&lt;p&gt;Available in five different colours, the device has a Qualcomm Snapdragon 835 Octa core (2.35 GHz Quad + 1.7 GHZ Quad) processor. For models that will be available in countries other than the U.S., Samsung has used Exynos Octa core (2.35 GHz Quad + 1.9 GHZ Quad) processor.&lt;/p&gt;
+
+&lt;p&gt;According to The Verge, while Galaxy S8 comes with a 3,000 mAh battery, the Galaxy S8 Plus is fitted with 3,500 mAh battery pack. The devices run on Android 7.0 Nougat and have USB-C and 3.5mm headphone jacks.&lt;/p&gt;
+
+&lt;p&gt;The company also launched Samsung Connect app that would allow users to control a number of internet-connected home devices such as TVs or refrigerators. It also unveiled new Gear 360 camera.&lt;/p&gt;
+
+&lt;p&gt;There’s a lot riding on Samsung S8 devices due to the Galaxy Note 7 fiasco. Samsung ultimately killed that smartphone after two recalls, both related to issues with faulty batteries.&lt;/p&gt;
+
+&lt;p&gt;Earlier this month, Samsung launched two new smartphones in ‘Galaxy A’ series — 5.7-inch Galaxy A7 and 5.2-inch Galaxy A5 in India which were priced at ₹33,490 and ₹28,990, respectively.&lt;/p&gt;
+
+&lt;p&gt;Samsung also joined the ‘go digital’ bandwagon, and last week unveiled Samsung Pay, the company’s flagship mobile payments service, in India.&lt;/p&gt;
+
+&lt;p&gt;At MWC in Barcelona this year, Samsung announced its innovative “I&amp;amp;G (Infill &amp;amp; Growth) Project” for Reliance Jio Infocomm Ltd. that will help expand both the current network capacity as well as network coverage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Twitter eases 140-character limit in replies</title>
+      <link>http://rameshponnada.in/2017/04/04/twitter-eases-140-character-limit-in-replies</link>
+      <pubDate>Tue, 04 Apr 2017 08:46:57 +0530</pubDate>
+      
+      <guid>http://rameshponnada.in/2017/04/04/twitter-eases-140-character-limit-in-replies</guid>
+      <description>&lt;p&gt;Twitter has found more creative ways to ease its 140-character limit without officially raising it.&lt;/p&gt;
+
+&lt;p&gt;Now, the company says that when you reply to someone or to a group usernames will no longer count toward those 140 characters. This will be especially helpful with group conversations, where replying to two, three or more users at a time could be especially difficult with the character constraints.&lt;/p&gt;
+
+&lt;p&gt;When users reply, the names of the people they are replying to will be on top of the text of the actual tweet, rather than a part of it.&lt;/p&gt;
+
+&lt;p&gt;Last year, Twitter said it would stop counting photos, videos, quote tweets, polls and GIF animations toward the character limit. Twitter also said it would stop counting usernames, but the change did not go into effect until now.&lt;/p&gt;
+
+&lt;p&gt;Twitter, which has been struggling to attract new users, has been trying to appeal to both proponents and opponents by sticking to the current limit while allowing more freedom to express thoughts, or rants, through images and other media.&lt;/p&gt;
+
+&lt;p&gt;Twitter’s character limit was created so that tweets could fit into a single text message, back in the heyday of SMS messaging. But now, most people use Twitter through its mobile app. There isn’t the same technical constraint, just a desire on Twitter’s part to stay true to its roots.&lt;/p&gt;
+
+&lt;p&gt;Of course, there are ways to get around the limit , such as sending out multi-part tweets, or taking screenshots of text typed elsewhere.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WhatsApp: The most secure app for making video calls?</title>
+      <link>http://rameshponnada.in/2017/04/04/whatsapp-the-most-secure-app-for-making-video-calls</link>
+      <pubDate>Tue, 04 Apr 2017 08:46:57 +0530</pubDate>
+      
+      <guid>http://rameshponnada.in/2017/04/04/whatsapp-the-most-secure-app-for-making-video-calls</guid>
+      <description>&lt;p&gt;WhatsApp already has end-to-end encryption and has said the same would apply to its video-calling feature.&lt;/p&gt;
+
+&lt;p&gt;WhatsApp on Tuesday rolled out its video calling feature in a phased manner to over a billion users around the world across multiple platforms (iphone, Android and Windows).&lt;/p&gt;
+
+&lt;p&gt;WhatsApp, which currently offers messaging, group chats and voice calling services is hugely popular in India, with over 150 million active users.&lt;/p&gt;
+
+&lt;p&gt;In a blog post, the company announced that it was committed to making quality video “available to everyone, not just those who can afford the most expensive new phones or live in countries with the best cellular networks.”&lt;/p&gt;
+
+&lt;p&gt;Its video quality is optimised to work with poor bandwidth and connectivity, unlike services like Skype that get affected if bandwidth is poor, a huge advantage in a country like India with poor connectivity.&lt;/p&gt;
+
+&lt;p&gt;The release of the video calling feature has placed WhatsApp in direct competition with a number of popular apps like Google’s Duo and Apple’s FaceTime.&lt;/p&gt;
+
+&lt;p&gt;Other cross-platform apps that also support video calling include Viber, Facebook Messenger and Skype. But how secure are all of them?&lt;/p&gt;
+
+&lt;p&gt;WhatsApp says the end-to-end encryption would apply to its video-calling feature. as in its messaging and voice call features. With this facility, there is technically no possibility of someone tapping into calls or texts, not even the company itself.&lt;/p&gt;
+
+&lt;p&gt;Earlier this year, CNN reported that the Facebook-owned app was blocked in Brazil because it refused to provide user data to help with criminal investigation.&lt;/p&gt;
+
+&lt;p&gt;In October, Facebook added a ‘Secret Conversations’ feature to its Messenger app (which includes video calls) but users are required to manually opt for it every single time it’s launched. Facebook Messenger also does not have end-to-end encryption.&lt;/p&gt;
+
+&lt;p&gt;Israeli app Viber also claims all its features are end-to-end encrypted but does mention that user information may be disclosed to law enforcement, governmental agencies, or authorised third parties under certain conditions. Snapchat follows the same policy.&lt;/p&gt;
+
+&lt;p&gt;Apple has claimed it doesn’t store FaceTime calls on any servers, and “wouldn’t be able to comply with a wiretap order even if we wanted to.” Google’s Duo has end-to end-encryption, though Allo doesn’t by default. Google Hangouts and Microsoft Skype do use some kind of encryption though not end-to-end.&lt;/p&gt;
+
+&lt;p&gt;However, while messages and calls may be end-to end-encrypted, the company can still see the meta data, including date, time stamps, mobile phone numbers involved in the messages and other information, though they may not be able to decipher what is in the message.&lt;/p&gt;
+
+&lt;p&gt;According to Whatsapp’s privacy policy, the company reserves the right to record this information, and give it to governments. Another security issue is that while the messages themselves may be secure when sent over the internet, they are not so secure when stored on the phone (hence the need for secure passcodes) and via online backups to the cloud, as the data then is with the backup service provider.&lt;/p&gt;
+
+&lt;p&gt;The Electronic Frontier Foundation (EFF), which calls itself “the leading nonprofit organisation defending civil liberties in the digital world”, compiled its own ‘secure messaging’ scorecard for all such apps based on various criteria such as encryption, identity verification, independent security and code audits. And WhatsApp seems to rank the highest — in terms of security — among the aforementioned apps (Skype, Viber and Snapchat feature very low).&lt;/p&gt;
+
+&lt;p&gt;In addition, EFF provides some alternative services such as Signal/Redphone, Silent Text, Telegram and Retro Share (all independently developed) which check every box in the security scorecard. It also claims that the scorecard becomes outdated every now and then as features in apps go through continuous changes almost every day.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
