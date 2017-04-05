@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sample Blog</title>
+    <title>{{Ramesh  Ponnada}}</title>
     <link>http://rameshponnada.in/index.xml</link>
-    <description>Recent content on Sample Blog</description>
+    <description>Recent content on {{Ramesh  Ponnada}}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
