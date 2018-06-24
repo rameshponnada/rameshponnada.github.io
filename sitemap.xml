@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://rameshponnada.in/2018/06/24/12-factor-applications-for-cloud-native/</loc>
+    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://rameshponnada.in/2017/04/04/the-world-in-your-pocket/</loc>
     <lastmod>2017-04-04T10:46:57+05:30</lastmod>
   </url>
@@ -33,7 +38,32 @@
   </url>
   
   <url>
+    <loc>http://rameshponnada.in/tags/12-factor/</loc>
+    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rameshponnada.in/categories/12-factor/</loc>
+    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://rameshponnada.in/categories/</loc>
+    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rameshponnada.in/tags/cloud-native/</loc>
+    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rameshponnada.in/categories/cloud-native/</loc>
+    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -63,19 +93,19 @@
   
   <url>
     <loc>http://rameshponnada.in/post/</loc>
-    <lastmod>2017-04-04T10:46:57+05:30</lastmod>
+    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://rameshponnada.in/tags/</loc>
-    <lastmod>2017-04-04T10:46:57+05:30</lastmod>
+    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://rameshponnada.in/</loc>
-    <lastmod>2017-04-04T10:46:57+05:30</lastmod>
+    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
