@@ -207,28 +207,6 @@
 
 <p>2) Dependencies – use a package manager and don’t commit dependencies in the codebase repository.</p>
 
-<p>3) Config – store the config in Environment Variable, if you have to repackage your application, you’re doing it wrong.</p>
-
-<p>4) Backing Services – a deploy of the twelve-factor app should be able to swap out a local MySQL database with one managed by a third party (such as Amazon RDS) without any changes to the app’s code.</p>
-
-<p>5) Build, Release, Run – the twelve-factor app uses strict separation between the build, release, and run stages. Every release should always have a unique release ID and releases should allow rollback.</p>
-
-<p>6) Processes – execute the app as one or more stateless processes, the Twelve-factor processes are stateless and share-nothing.</p>
-
-<p>7) Port Binding – export services via port binding, The twelve-factor app is completely self-contained.</p>
-
-<p>8) Concurrency – scale out via the process model. Each process should be individually scaled, with Factor 6 (Stateless), it is easy to scale the services.</p>
-
-<p>9) Disposability – maximize robustness with fast startup and graceful shutdown, we can achieve this with containers.</p>
-
-<p>10) Dev/Prod Parity – Keep development, staging, and production as similar as possible, the twelve-factor app is designed for continuous deployment by keeping the gap between development and production small.</p>
-
-<p>11) Logs – treat logs as event streams, a twelve-factor app never concerns itself with routing or storage of its output stream.</p>
-
-<p>12) Admin Processes – run admin/management tasks as one-off processes.</p>
-
-<p>The 12-factor App methodology is technology and language agnostic but satisfied by Containers, Microservices, and CI/CD Pipelines with a focus on DevOps. You can access more information on The 12-factor App at <a href="https://12factor.net/">https://12factor.net/</a>.</p>
-
 <p></p>
 
                     <br>
