@@ -20,23 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Development</title>
-      <link>http://rameshponnada.in/tags/development/</link>
-      <pubDate>Tue, 04 Apr 2017 10:46:57 +0530</pubDate>
-      
-      <guid>http://rameshponnada.in/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>http://rameshponnada.in/tags/golang/</link>
-      <pubDate>Tue, 04 Apr 2017 10:46:57 +0530</pubDate>
-      
-      <guid>http://rameshponnada.in/tags/golang/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
