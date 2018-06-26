@@ -6,10 +6,28 @@
     <description>Recent content on {{Ramesh  Ponnada}}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jun 2018 08:46:57 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jun 2018 20:42:13 +0530</lastBuildDate>
     
 	<atom:link href="http://rameshponnada.in/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fallacies of distributed computing</title>
+      <link>http://rameshponnada.in/2018/06/26/fallacies-of-distributed-computing/</link>
+      <pubDate>Tue, 26 Jun 2018 20:42:13 +0530</pubDate>
+      
+      <guid>http://rameshponnada.in/2018/06/26/fallacies-of-distributed-computing/</guid>
+      <description>The fallacies of distributed computing are a set of assertions made by L Peter Deutsch and others at Sun Microsystems describing false assumptions that programmers new to distributed applications invariably make.
+The fallacies are:
+ The network is reliable.
+ Latency is zero.
+ Bandwidth is infinite.
+ The network is secure.
+ Topology doesn&amp;rsquo;t change.
+ There is one administrator.
+ Transport cost is zero.
+ The network is homogeneous.</description>
+    </item>
     
     <item>
       <title>12 Factor Applications for Cloud Native</title>

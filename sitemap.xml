@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://rameshponnada.in/2018/06/26/fallacies-of-distributed-computing/</loc>
+    <lastmod>2018-06-26T20:42:13+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://rameshponnada.in/2018/06/24/12-factor-applications-for-cloud-native/</loc>
     <lastmod>2018-06-24T08:46:57+05:30</lastmod>
   </url>
@@ -20,20 +25,32 @@
   </url>
   
   <url>
-    <loc>http://rameshponnada.in/tags/cloud-native/</loc>
-    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://rameshponnada.in/categories/cloud-native/</loc>
     <lastmod>2018-06-24T08:46:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rameshponnada.in/post/</loc>
+    <loc>http://rameshponnada.in/tags/cloud-native/</loc>
     <lastmod>2018-06-24T08:46:57+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rameshponnada.in/categories/distributed/</loc>
+    <lastmod>2018-06-26T20:42:13+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rameshponnada.in/tags/distributed/</loc>
+    <lastmod>2018-06-26T20:42:13+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rameshponnada.in/post/</loc>
+    <lastmod>2018-06-26T20:42:13+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -45,7 +62,7 @@
   
   <url>
     <loc>http://rameshponnada.in/</loc>
-    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
+    <lastmod>2018-06-26T20:42:13+05:30</lastmod>
     <priority>0</priority>
   </url>
   
