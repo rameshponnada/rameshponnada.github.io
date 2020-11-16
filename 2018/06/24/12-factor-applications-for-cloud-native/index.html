@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head>
     <title>12 Factor Applications for Cloud Native &middot; {{Ramesh  Ponnada}}</title>
-    <meta name="generator" content="Hugo 0.41" />
+    <meta name="generator" content="Hugo 0.70.0" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Ramesh Ponnada">
@@ -10,65 +10,56 @@
       <meta name="description" content="">
     
     
-    <link rel="canonical" href="http://rameshponnada.in/2018/06/24/12-factor-applications-for-cloud-native/"/>
-    <link rel="icon" href="http://rameshponnada.in/favicon.ico">
-    <link rel="apple-touch-icon" href="http://rameshponnada.in/apple-touch-icon.png"/>
-    <link rel="stylesheet" href="http://rameshponnada.in/css/style.css">
-    <link rel="stylesheet" href="http://rameshponnada.in/css/font-awesome.min.css">
-    <link rel="stylesheet" href="http://rameshponnada.in/css/monokai.css">
-    <link rel="stylesheet" href="http://rameshponnada.in/fancybox/jquery.fancybox.css">
+    <link rel="canonical" href="http://rameshponnada.github.io/2018/06/24/12-factor-applications-for-cloud-native/"/>
+    <link rel="icon" href="http://rameshponnada.github.io/favicon.ico">
+    <link rel="apple-touch-icon" href="http://rameshponnada.github.io/apple-touch-icon.png"/>
+    <link rel="stylesheet" href="http://rameshponnada.github.io/css/style.css">
+    <link rel="stylesheet" href="http://rameshponnada.github.io/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://rameshponnada.github.io/css/monokai.css">
+    <link rel="stylesheet" href="http://rameshponnada.github.io/fancybox/jquery.fancybox.css">
     <link href="https://fonts.googleapis.com/css?family=Norican" rel="stylesheet"  type='text/css'>
     
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
     <meta property="og:title" content="12 Factor Applications for Cloud Native" />
-<meta property="og:description" content="1) Codebase – use version control, one codebase tracked in revision control for many deployments.
+<meta property="og:description" content="
 
-2) Dependencies – use a package manager and don’t commit dependencies in the codebase repository.
+Codebase – use version control, one codebase tracked in revision control for many deployments.
+
+
+Dependencies – use a package manager and don’t commit dependencies in the codebase repository.
 
 " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://rameshponnada.in/2018/06/24/12-factor-applications-for-cloud-native/" />
-
-
-
-<meta property="article:published_time" content="2018-06-24T08:46:57&#43;05:30"/>
-
-<meta property="article:modified_time" content="2018-06-24T08:46:57&#43;05:30"/>
-
-
-
-
-
-
-
-
-
-
+<meta property="og:url" content="http://rameshponnada.github.io/2018/06/24/12-factor-applications-for-cloud-native/" />
+<meta property="article:published_time" content="2018-06-24T08:46:57+05:30" />
+<meta property="article:modified_time" content="2018-06-24T08:46:57+05:30" />
 
     
-    
-<meta itemprop="name" content="12 Factor Applications for Cloud Native">
-<meta itemprop="description" content="1) Codebase – use version control, one codebase tracked in revision control for many deployments.
+    <meta itemprop="name" content="12 Factor Applications for Cloud Native">
+<meta itemprop="description" content="
 
-2) Dependencies – use a package manager and don’t commit dependencies in the codebase repository.
+Codebase – use version control, one codebase tracked in revision control for many deployments.
+
+
+Dependencies – use a package manager and don’t commit dependencies in the codebase repository.
 
 ">
-
-
 <meta itemprop="datePublished" content="2018-06-24T08:46:57&#43;05:30" />
 <meta itemprop="dateModified" content="2018-06-24T08:46:57&#43;05:30" />
-<meta itemprop="wordCount" content="297">
+<meta itemprop="wordCount" content="285">
 
 
 
 <meta itemprop="keywords" content="cloud native," />
-
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="12 Factor Applications for Cloud Native"/>
-<meta name="twitter:description" content="1) Codebase – use version control, one codebase tracked in revision control for many deployments.
+<meta name="twitter:description" content="
 
-2) Dependencies – use a package manager and don’t commit dependencies in the codebase repository.
+Codebase – use version control, one codebase tracked in revision control for many deployments.
+
+
+Dependencies – use a package manager and don’t commit dependencies in the codebase repository.
 
 "/>
 <meta name="twitter:site" content="@rameshponnada"/>
@@ -104,7 +95,7 @@
 	<header id="header">
   <div id="header-main" class="header-inner">
     <div class="outer">
-      <a href="http://rameshponnada.in/" id="logo">
+      <a href="http://rameshponnada.github.io/" id="logo">
           
           <span class="site-title">{{Ramesh  Ponnada}}</span>
       </a>
@@ -124,7 +115,7 @@
           <tr>
           
           
-          <td><a class="main-nav-link" href="http://rameshponnada.in/">Home</a></td>
+          <td><a class="main-nav-link" href="http://rameshponnada.github.io/">Home</a></td>
           
           
           
@@ -138,17 +129,17 @@
           
           
           
-          <td><a class="main-nav-link" href="http://rameshponnada.in/tags/">Tags</a></td>
+          <td><a class="main-nav-link" href="http://rameshponnada.github.io/tags/">Tags</a></td>
           
           
           
-          <td><a class="main-nav-link" href="http://rameshponnada.in/categories/">Categories</a></td>
+          <td><a class="main-nav-link" href="http://rameshponnada.github.io/categories/">Categories</a></td>
           
           
           <td>
           <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form">
           <input type="search" name="q" class="search-form-input" placeholder="Search">
-          <input type="hidden" name="sitesearch" value="http://rameshponnada.in/" />
+          <input type="hidden" name="sitesearch" value="http://rameshponnada.github.io/" />
           </form>
         </td>
       </tr>
@@ -169,7 +160,7 @@
             
 
             <header class="article-header">
-    <a href="http://rameshponnada.in/2018/06/24/12-factor-applications-for-cloud-native/">
+    <a href="http://rameshponnada.github.io/2018/06/24/12-factor-applications-for-cloud-native/">
     <h1 class="article-title" itemprop="name">
         12 Factor Applications for Cloud Native
     </h1>
@@ -222,42 +213,51 @@
 </header>
 
             <div class="article-entry" itemprop="articleBody">
-                <p>1) Codebase – use version control, one codebase tracked in revision control for many deployments.</p>
-
-<p>2) Dependencies – use a package manager and don’t commit dependencies in the codebase repository.</p>
-
-<p></p>
-
-<p>3) Config – store the config in Environment Variable, if you have to repackage your application, you’re doing it wrong.</p>
-
-<p>4) Backing Services – a deploy of the twelve-factor app should be able to swap out a local MySQL database with one managed by a third party (such as Amazon RDS) without any changes to the app’s code.</p>
-
-<p>5) Build, Release, Run – the twelve-factor app uses strict separation between the build, release, and run stages. Every release should always have a unique release ID and releases should allow rollback.</p>
-
-<p>6) Processes – execute the app as one or more stateless processes, the Twelve-factor processes are stateless and share-nothing.</p>
-
-<p>7) Port Binding – export services via port binding, The twelve-factor app is completely self-contained.</p>
-
-<p>8) Concurrency – scale out via the process model. Each process should be individually scaled, with Factor 6 (Stateless), it is easy to scale the services.</p>
-
-<p>9) Disposability – maximize robustness with fast startup and graceful shutdown, we can achieve this with containers.</p>
-
-<p>10) Dev/Prod Parity – Keep development, staging, and production as similar as possible, the twelve-factor app is designed for continuous deployment by keeping the gap between development and production small.</p>
-
-<p>11) Logs – treat logs as event streams, a twelve-factor app never concerns itself with routing or storage of its output stream.</p>
-
-<p>12) Admin Processes – run admin/management tasks as one-off processes.</p>
-
+                <ol>
+<li>
+<p>Codebase – use version control, one codebase tracked in revision control for many deployments.</p>
+</li>
+<li>
+<p>Dependencies – use a package manager and don’t commit dependencies in the codebase repository.</p>
+</li>
+</ol>
+<ol start="3">
+<li>
+<p>Config – store the config in Environment Variable, if you have to repackage your application, you’re doing it wrong.</p>
+</li>
+<li>
+<p>Backing Services – a deploy of the twelve-factor app should be able to swap out a local MySQL database with one managed by a third party (such as Amazon RDS) without any changes to the app’s code.</p>
+</li>
+<li>
+<p>Build, Release, Run – the twelve-factor app uses strict separation between the build, release, and run stages. Every release should always have a unique release ID and releases should allow rollback.</p>
+</li>
+<li>
+<p>Processes – execute the app as one or more stateless processes, the Twelve-factor processes are stateless and share-nothing.</p>
+</li>
+<li>
+<p>Port Binding – export services via port binding, The twelve-factor app is completely self-contained.</p>
+</li>
+<li>
+<p>Concurrency – scale out via the process model. Each process should be individually scaled, with Factor 6 (Stateless), it is easy to scale the services.</p>
+</li>
+<li>
+<p>Disposability – maximize robustness with fast startup and graceful shutdown, we can achieve this with containers.</p>
+</li>
+<li>
+<p>Dev/Prod Parity – Keep development, staging, and production as similar as possible, the twelve-factor app is designed for continuous deployment by keeping the gap between development and production small.</p>
+</li>
+<li>
+<p>Logs – treat logs as event streams, a twelve-factor app never concerns itself with routing or storage of its output stream.</p>
+</li>
+<li>
+<p>Admin Processes – run admin/management tasks as one-off processes.</p>
+</li>
+</ol>
 <p>The 12-factor App methodology is technology and language agnostic but satisfied by Containers, Microservices, and CI/CD Pipelines with a focus on DevOps. You can access more information on The 12-factor App at <a href="https://12factor.net/">https://12factor.net/</a>.</p>
-
 <p>References::</p>
-
 <p><a href="https://12factor.net/">https://12factor.net/</a></p>
-
 <p><a href="https://developers.redhat.com/blog/2017/06/22/12-factors-to-cloud-success/">https://developers.redhat.com/blog/2017/06/22/12-factors-to-cloud-success/</a></p>
-
 <p><a href="https://medium.com/velotio-perspectives/cloud-native-applications-the-why-the-what-the-how-9b2d31897496">https://medium.com/velotio-perspectives/cloud-native-applications-the-why-the-what-the-how-9b2d31897496</a></p>
-
 <p><a href="https://landscape.cncf.io/">https://landscape.cncf.io/</a></p>
             </div>
             <footer class="article-footer">
@@ -269,17 +269,17 @@
         <i class="fa fa-tags"></i>
         
         
-        <a class="article-category-link" href="http://rameshponnada.in/categories/cloud-native">cloud native</a>
+        <a class="article-category-link" href="http://rameshponnada.github.io/categories/cloud-native">cloud native</a>
         &middot;
         
         
-        <a class="article-category-link" href="http://rameshponnada.in/categories/12-factor">12 factor</a>
+        <a class="article-category-link" href="http://rameshponnada.github.io/categories/12-factor">12 factor</a>
         
         
 
     
     
-    <a data-url="http://rameshponnada.in/2018/06/24/12-factor-applications-for-cloud-native/" data-id="6a8ac158d1edd366945f975192179150" class="article-share-link">
+    <a data-url="http://rameshponnada.github.io/2018/06/24/12-factor-applications-for-cloud-native/" data-id="6a8ac158d1edd366945f975192179150" class="article-share-link">
         <i class="fa fa-share"></i>
         Share
     </a>
@@ -358,7 +358,7 @@
     
 
     
-    <a href="http://rameshponnada.in/2018/06/26/fallacies-of-distributed-computing/" id="article-nav-newer" class="article-nav-link-wrap">
+    <a href="http://rameshponnada.github.io/2018/06/26/fallacies-of-distributed-computing/" id="article-nav-newer" class="article-nav-link-wrap">
       <strong class="article-nav-caption">
           Newer
       </strong>
@@ -388,9 +388,9 @@
             
             <li>
                 <div class="item-thumbnail">
-                    <a href="http://rameshponnada.in/2018/06/26/fallacies-of-distributed-computing/" class="thumbnail">
+                    <a href="http://rameshponnada.github.io/2018/06/26/fallacies-of-distributed-computing/" class="thumbnail">
                     
-                        <span style="background-image:url(http://rameshponnada.in/banners/fallacies.png)" alt="12 Factor Applications for Cloud Native" class="thumbnail-image"></span>
+                        <span style="background-image:url(http://rameshponnada.github.io/banners/fallacies.png)" alt="12 Factor Applications for Cloud Native" class="thumbnail-image"></span>
                     
                     </a>
                 </div>
@@ -405,7 +405,7 @@
                     
                     
                     
-                    <p class="item-title"><a href="http://rameshponnada.in/2018/06/26/fallacies-of-distributed-computing/" class="title">Fallacies of distributed computing</a></p>
+                    <p class="item-title"><a href="http://rameshponnada.github.io/2018/06/26/fallacies-of-distributed-computing/" class="title">Fallacies of distributed computing</a></p>
                     <p class="item-date">
                         <time datetime="2018-06-26 20:42:13 &#43;0530 IST" itemprop="datePublished">2018-06-26</time>
                     </p>
@@ -414,7 +414,7 @@
             
             <li>
                 <div class="item-thumbnail">
-                    <a href="http://rameshponnada.in/2018/06/24/12-factor-applications-for-cloud-native/" class="thumbnail">
+                    <a href="http://rameshponnada.github.io/2018/06/24/12-factor-applications-for-cloud-native/" class="thumbnail">
                     
                         <span style="background-image:url(https://developers.redhat.com/blog/wp-content/uploads/2017/06/Screen-Shot-2017-06-19-at-7.14.34-PM.png)" alt="12 Factor Applications for Cloud Native" class="thumbnail-image"></span>
                     
@@ -431,7 +431,7 @@
                     
                     
                     
-                    <p class="item-title"><a href="http://rameshponnada.in/2018/06/24/12-factor-applications-for-cloud-native/" class="title">12 Factor Applications for Cloud Native</a></p>
+                    <p class="item-title"><a href="http://rameshponnada.github.io/2018/06/24/12-factor-applications-for-cloud-native/" class="title">12 Factor Applications for Cloud Native</a></p>
                     <p class="item-date">
                         <time datetime="2018-06-24 08:46:57 &#43;0530 IST" itemprop="datePublished">2018-06-24</time>
                     </p>
@@ -457,7 +457,7 @@
             
             <li class="category-list-item">
                 
-                <a class="category-list-link" href="http://rameshponnada.in/tags/cloud-native">
+                <a class="category-list-link" href="http://rameshponnada.github.io/tags/cloud-native">
                     cloud-native
                 </a>
                 <span class="category-list-count">1</span>
@@ -465,7 +465,7 @@
             
             <li class="category-list-item">
                 
-                <a class="category-list-link" href="http://rameshponnada.in/tags/distributed">
+                <a class="category-list-link" href="http://rameshponnada.github.io/tags/distributed">
                     distributed
                 </a>
                 <span class="category-list-count">1</span>
@@ -490,8 +490,8 @@
 
 
 
-<script src="http://rameshponnada.in/fancybox/jquery.fancybox.pack.js"></script>
-<script src="http://rameshponnada.in/js/script.js"></script>
+<script src="http://rameshponnada.github.io/fancybox/jquery.fancybox.pack.js"></script>
+<script src="http://rameshponnada.github.io/js/script.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
 
 

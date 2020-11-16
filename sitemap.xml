@@ -1,69 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://rameshponnada.in/2018/06/26/fallacies-of-distributed-computing/</loc>
+    <loc>http://rameshponnada.github.io/categories/</loc>
     <lastmod>2018-06-26T20:42:13+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://rameshponnada.in/2018/06/24/12-factor-applications-for-cloud-native/</loc>
-    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://rameshponnada.in/categories/12-factor/</loc>
-    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://rameshponnada.in/categories/</loc>
-    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://rameshponnada.in/categories/cloud-native/</loc>
-    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://rameshponnada.in/tags/cloud-native/</loc>
-    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://rameshponnada.in/categories/distributed/</loc>
+    <loc>http://rameshponnada.github.io/tags/distributed/</loc>
     <lastmod>2018-06-26T20:42:13+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rameshponnada.in/tags/distributed/</loc>
+    <loc>http://rameshponnada.github.io/categories/distributed/</loc>
     <lastmod>2018-06-26T20:42:13+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rameshponnada.in/post/</loc>
+    <loc>http://rameshponnada.github.io/2018/06/26/fallacies-of-distributed-computing/</loc>
     <lastmod>2018-06-26T20:42:13+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rameshponnada.in/tags/</loc>
+    <loc>http://rameshponnada.github.io/post/</loc>
+    <lastmod>2018-06-26T20:42:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rameshponnada.github.io/tags/</loc>
+    <lastmod>2018-06-26T20:42:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rameshponnada.github.io/</loc>
+    <lastmod>2018-06-26T20:42:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rameshponnada.github.io/categories/12-factor/</loc>
     <lastmod>2018-06-24T08:46:57+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rameshponnada.in/</loc>
-    <lastmod>2018-06-26T20:42:13+05:30</lastmod>
-    <priority>0</priority>
+    <loc>http://rameshponnada.github.io/2018/06/24/12-factor-applications-for-cloud-native/</loc>
+    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rameshponnada.github.io/tags/cloud-native/</loc>
+    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rameshponnada.github.io/categories/cloud-native/</loc>
+    <lastmod>2018-06-24T08:46:57+05:30</lastmod>
   </url>
   
 </urlset>

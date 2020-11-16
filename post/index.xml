@@ -1,45 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on {{Ramesh  Ponnada}}</title>
-    <link>http://rameshponnada.in/post/</link>
+    <link>http://rameshponnada.github.io/post/</link>
     <description>Recent content in Posts on {{Ramesh  Ponnada}}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Jun 2018 20:42:13 +0530</lastBuildDate>
     
-	<atom:link href="http://rameshponnada.in/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rameshponnada.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fallacies of distributed computing</title>
-      <link>http://rameshponnada.in/2018/06/26/fallacies-of-distributed-computing/</link>
+      <link>http://rameshponnada.github.io/2018/06/26/fallacies-of-distributed-computing/</link>
       <pubDate>Tue, 26 Jun 2018 20:42:13 +0530</pubDate>
       
-      <guid>http://rameshponnada.in/2018/06/26/fallacies-of-distributed-computing/</guid>
+      <guid>http://rameshponnada.github.io/2018/06/26/fallacies-of-distributed-computing/</guid>
       <description>The fallacies of distributed computing are a set of assertions made by L Peter Deutsch and others at Sun Microsystems describing false assumptions that programmers new to distributed applications invariably make.
 The fallacies are:
- The network is reliable.
- Latency is zero.
- Bandwidth is infinite.
- The network is secure.
- Topology doesn&amp;rsquo;t change.
- There is one administrator.
- Transport cost is zero.
- The network is homogeneous.</description>
+  The network is reliable.
+  Latency is zero.
+  Bandwidth is infinite.
+  The network is secure.
+  Topology doesn&amp;rsquo;t change.
+  There is one administrator.
+  Transport cost is zero.</description>
     </item>
     
     <item>
       <title>12 Factor Applications for Cloud Native</title>
-      <link>http://rameshponnada.in/2018/06/24/12-factor-applications-for-cloud-native/</link>
+      <link>http://rameshponnada.github.io/2018/06/24/12-factor-applications-for-cloud-native/</link>
       <pubDate>Sun, 24 Jun 2018 08:46:57 +0530</pubDate>
       
-      <guid>http://rameshponnada.in/2018/06/24/12-factor-applications-for-cloud-native/</guid>
-      <description>&lt;p&gt;1) Codebase – use version control, one codebase tracked in revision control for many deployments.&lt;/p&gt;
-
-&lt;p&gt;2) Dependencies – use a package manager and don’t commit dependencies in the codebase repository.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <guid>http://rameshponnada.github.io/2018/06/24/12-factor-applications-for-cloud-native/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Codebase – use version control, one codebase tracked in revision control for many deployments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dependencies – use a package manager and don’t commit dependencies in the codebase repository.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     
   </channel>

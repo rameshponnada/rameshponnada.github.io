@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on {{Ramesh  Ponnada}}</title>
-    <link>http://rameshponnada.in/categories/</link>
+    <link>http://rameshponnada.github.io/categories/</link>
     <description>Recent content in Categories on {{Ramesh  Ponnada}}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jun 2018 08:46:57 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jun 2018 20:42:13 +0530</lastBuildDate>
     
-	<atom:link href="http://rameshponnada.in/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rameshponnada.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>12 Factor</title>
-      <link>http://rameshponnada.in/categories/12-factor/</link>
-      <pubDate>Sun, 24 Jun 2018 08:46:57 +0530</pubDate>
-      
-      <guid>http://rameshponnada.in/categories/12-factor/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Cloud Native</title>
-      <link>http://rameshponnada.in/categories/cloud-native/</link>
-      <pubDate>Sun, 24 Jun 2018 08:46:57 +0530</pubDate>
-      
-      <guid>http://rameshponnada.in/categories/cloud-native/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distributed</title>
-      <link>http://rameshponnada.in/categories/distributed/</link>
+      <title>distributed</title>
+      <link>http://rameshponnada.github.io/categories/distributed/</link>
       <pubDate>Tue, 26 Jun 2018 20:42:13 +0530</pubDate>
       
-      <guid>http://rameshponnada.in/categories/distributed/</guid>
+      <guid>http://rameshponnada.github.io/categories/distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>12 factor</title>
+      <link>http://rameshponnada.github.io/categories/12-factor/</link>
+      <pubDate>Sun, 24 Jun 2018 08:46:57 +0530</pubDate>
+      
+      <guid>http://rameshponnada.github.io/categories/12-factor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud native</title>
+      <link>http://rameshponnada.github.io/categories/cloud-native/</link>
+      <pubDate>Sun, 24 Jun 2018 08:46:57 +0530</pubDate>
+      
+      <guid>http://rameshponnada.github.io/categories/cloud-native/</guid>
       <description></description>
     </item>
     
