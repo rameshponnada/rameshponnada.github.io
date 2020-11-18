@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>12 factor on {{Ramesh  Ponnada}}</title>
-    <link>http://rameshponnada.github.io/categories/12-factor/</link>
+    <link>https://rameshponnada.github.io/categories/12-factor/</link>
     <description>Recent content in 12 factor on {{Ramesh  Ponnada}}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Jun 2018 08:46:57 +0530</lastBuildDate>
     
-	<atom:link href="http://rameshponnada.github.io/categories/12-factor/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rameshponnada.github.io/categories/12-factor/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>12 Factor Applications for Cloud Native</title>
-      <link>http://rameshponnada.github.io/2018/06/24/12-factor-applications-for-cloud-native/</link>
+      <link>https://rameshponnada.github.io/2018/06/24/12-factor-applications-for-cloud-native/</link>
       <pubDate>Sun, 24 Jun 2018 08:46:57 +0530</pubDate>
       
-      <guid>http://rameshponnada.github.io/2018/06/24/12-factor-applications-for-cloud-native/</guid>
+      <guid>https://rameshponnada.github.io/2018/06/24/12-factor-applications-for-cloud-native/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Codebase – use version control, one codebase tracked in revision control for many deployments.&lt;/p&gt;
