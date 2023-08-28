@@ -2,30 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on {{Ramesh  Ponnada}}</title>
-    <link>https://rameshponnada.github.io/tags/</link>
+    <link>http://rameshponnada.in/tags/</link>
     <description>Recent content in Tags on {{Ramesh  Ponnada}}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jun 2018 20:42:13 +0530</lastBuildDate>
-    
-	<atom:link href="https://rameshponnada.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 26 Jun 2018 20:42:13 +0530</lastBuildDate><atom:link href="http://rameshponnada.in/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>distributed</title>
-      <link>https://rameshponnada.github.io/tags/distributed/</link>
+      <link>http://rameshponnada.in/tags/distributed/</link>
       <pubDate>Tue, 26 Jun 2018 20:42:13 +0530</pubDate>
       
-      <guid>https://rameshponnada.github.io/tags/distributed/</guid>
+      <guid>http://rameshponnada.in/tags/distributed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloud native</title>
-      <link>https://rameshponnada.github.io/tags/cloud-native/</link>
+      <link>http://rameshponnada.in/tags/cloud-native/</link>
       <pubDate>Sun, 24 Jun 2018 08:46:57 +0530</pubDate>
       
-      <guid>https://rameshponnada.github.io/tags/cloud-native/</guid>
+      <guid>http://rameshponnada.in/tags/cloud-native/</guid>
       <description></description>
     </item>
     

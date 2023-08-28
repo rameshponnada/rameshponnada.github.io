@@ -2,39 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on {{Ramesh  Ponnada}}</title>
-    <link>https://rameshponnada.github.io/categories/</link>
+    <link>http://rameshponnada.in/categories/</link>
     <description>Recent content in Categories on {{Ramesh  Ponnada}}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jun 2018 20:42:13 +0530</lastBuildDate>
-    
-	<atom:link href="https://rameshponnada.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 26 Jun 2018 20:42:13 +0530</lastBuildDate><atom:link href="http://rameshponnada.in/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>distributed</title>
-      <link>https://rameshponnada.github.io/categories/distributed/</link>
+      <link>http://rameshponnada.in/categories/distributed/</link>
       <pubDate>Tue, 26 Jun 2018 20:42:13 +0530</pubDate>
       
-      <guid>https://rameshponnada.github.io/categories/distributed/</guid>
+      <guid>http://rameshponnada.in/categories/distributed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>12 factor</title>
-      <link>https://rameshponnada.github.io/categories/12-factor/</link>
+      <link>http://rameshponnada.in/categories/12-factor/</link>
       <pubDate>Sun, 24 Jun 2018 08:46:57 +0530</pubDate>
       
-      <guid>https://rameshponnada.github.io/categories/12-factor/</guid>
+      <guid>http://rameshponnada.in/categories/12-factor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloud native</title>
-      <link>https://rameshponnada.github.io/categories/cloud-native/</link>
+      <link>http://rameshponnada.in/categories/cloud-native/</link>
       <pubDate>Sun, 24 Jun 2018 08:46:57 +0530</pubDate>
       
-      <guid>https://rameshponnada.github.io/categories/cloud-native/</guid>
+      <guid>http://rameshponnada.in/categories/cloud-native/</guid>
       <description></description>
     </item>
     

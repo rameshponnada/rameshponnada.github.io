@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>distributed on {{Ramesh  Ponnada}}</title>
-    <link>https://rameshponnada.github.io/tags/distributed/</link>
+    <link>http://rameshponnada.in/tags/distributed/</link>
     <description>Recent content in distributed on {{Ramesh  Ponnada}}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jun 2018 20:42:13 +0530</lastBuildDate>
-    
-	<atom:link href="https://rameshponnada.github.io/tags/distributed/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 26 Jun 2018 20:42:13 +0530</lastBuildDate><atom:link href="http://rameshponnada.in/tags/distributed/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fallacies of distributed computing</title>
-      <link>https://rameshponnada.github.io/2018/06/26/fallacies-of-distributed-computing/</link>
+      <link>http://rameshponnada.in/2018/06/26/fallacies-of-distributed-computing/</link>
       <pubDate>Tue, 26 Jun 2018 20:42:13 +0530</pubDate>
       
-      <guid>https://rameshponnada.github.io/2018/06/26/fallacies-of-distributed-computing/</guid>
+      <guid>http://rameshponnada.in/2018/06/26/fallacies-of-distributed-computing/</guid>
       <description>The fallacies of distributed computing are a set of assertions made by L Peter Deutsch and others at Sun Microsystems describing false assumptions that programmers new to distributed applications invariably make.
 The fallacies are:
-  The network is reliable.
-  Latency is zero.
-  Bandwidth is infinite.
-  The network is secure.
-  Topology doesn&amp;rsquo;t change.
-  There is one administrator.
-  Transport cost is zero.</description>
+The network is reliable.
+Latency is zero.
+Bandwidth is infinite.
+The network is secure.
+Topology doesn&amp;rsquo;t change.
+There is one administrator.
+Transport cost is zero.
+The network is homogeneous.
+References:
+https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
+https://blog.fogcreek.com/eight-fallacies-of-distributed-computing-tech-talk/</description>
     </item>
     
   </channel>
