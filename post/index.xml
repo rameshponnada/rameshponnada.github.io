@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on {{Ramesh  Ponnada}}</title>
-    <link>http://rameshponnada.in/post/</link>
+    <link>http://blog.rameshponnada.in/post/</link>
     <description>Recent content in Posts on {{Ramesh  Ponnada}}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jun 2018 20:42:13 +0530</lastBuildDate><atom:link href="http://rameshponnada.in/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jun 2018 20:42:13 +0530</lastBuildDate><atom:link href="http://blog.rameshponnada.in/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fallacies of distributed computing</title>
-      <link>http://rameshponnada.in/2018/06/26/fallacies-of-distributed-computing/</link>
+      <link>http://blog.rameshponnada.in/2018/06/26/fallacies-of-distributed-computing/</link>
       <pubDate>Tue, 26 Jun 2018 20:42:13 +0530</pubDate>
       
-      <guid>http://rameshponnada.in/2018/06/26/fallacies-of-distributed-computing/</guid>
+      <guid>http://blog.rameshponnada.in/2018/06/26/fallacies-of-distributed-computing/</guid>
       <description>The fallacies of distributed computing are a set of assertions made by L Peter Deutsch and others at Sun Microsystems describing false assumptions that programmers new to distributed applications invariably make.
 The fallacies are:
 The network is reliable.
@@ -30,10 +30,10 @@ https://blog.fogcreek.com/eight-fallacies-of-distributed-computing-tech-talk/</d
     
     <item>
       <title>12 Factor Applications for Cloud Native</title>
-      <link>http://rameshponnada.in/2018/06/24/12-factor-applications-for-cloud-native/</link>
+      <link>http://blog.rameshponnada.in/2018/06/24/12-factor-applications-for-cloud-native/</link>
       <pubDate>Sun, 24 Jun 2018 08:46:57 +0530</pubDate>
       
-      <guid>http://rameshponnada.in/2018/06/24/12-factor-applications-for-cloud-native/</guid>
+      <guid>http://blog.rameshponnada.in/2018/06/24/12-factor-applications-for-cloud-native/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Codebase – use version control, one codebase tracked in revision control for many deployments.&lt;/p&gt;

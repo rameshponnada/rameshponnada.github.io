@@ -1,0 +1,29 @@
+
+3	css:S4656Ğ"Unexpected duplicate "height"(¶ƒƒ¨
+D	css:S4656Ÿ")Unexpected duplicate "-webkit-appearance"(‚ÈÉÓûÿÿÿÿ
+9	css:S4656"Unexpected duplicate "display"(¡¯¹‘ÿÿÿÿÿ
+E	css:S4657²"/Unexpected shorthand "font" after "line-height"(¥ŸÅ 
+A	css:S4649"&Unexpected missing generic font family(°ÅÎûÿÿÿÿ
+<	css:S4649‘"&Unexpected missing generic font family(œ¹Ú
+A	css:S4649¼"&Unexpected missing generic font family(ƒ“Ëûÿÿÿÿ
+A	css:S4649š"&Unexpected missing generic font family(ƒ“Ëûÿÿÿÿ
+A	css:S4649Ü"&Unexpected missing generic font family(ƒ“Ëûÿÿÿÿ
+A	css:S4649Œ"&Unexpected missing generic font family(ƒ“Ëûÿÿÿÿ
+=	css:S4648Š""Unexpected duplicate name Consolas(öÛ¼‚úÿÿÿÿ
+=	css:S4648""Unexpected duplicate name Consolas(öÛ¼‚úÿÿÿÿ
+T	css:S4666O":Unexpected duplicate selector "body", first used at line 1(×ŸÌíıÿÿÿÿ
+T	css:S4666v":Unexpected duplicate selector "body", first used at line 1(×ŸÌíıÿÿÿÿ
+İ	css:S4666ÿ"ÁUnexpected duplicate selector ".article-entry h1,
+.article-entry h2,
+.article-entry h3,
+.article-entry h4,
+.article-entry h5,
+.article-entry h6", first used at line 887 (no-duplicate-selectors)(Ó€ñÌüÿÿÿÿ
+V	css:S4666Ì"@Unexpected duplicate selector ".widget", first used at line 1685(ãµœ¾
+}	css:S4666â"hUnexpected duplicate selector ".widget ul,
+.widget ol", first used at line 1690 (no-duplicate-selectors)(‡­÷E
+£	css:S4666ô"ŒUnexpected duplicate selector ".widget ul ul,
+.widget ol ul,
+.widget ul ol,
+.widget ol ol", first used at line 1695 (no-duplicate-selectors)(´ê¸Ó
+Y	css:S4666¶"CUnexpected duplicate selector ".highlight", first used at line 2072(°éÄ
